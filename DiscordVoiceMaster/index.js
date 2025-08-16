@@ -158,4 +158,4 @@ client.once('ready', () => {
     client.user.setActivity('Temporary Voice Channels', { type: 'WATCHING' });
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login('MTQwMDAwMzU0NTM5NDE4NDMxMw.GP2RPX.hIWxCulzpbj58FWxuPDKAh_TtOh49Vx-lik52s');
